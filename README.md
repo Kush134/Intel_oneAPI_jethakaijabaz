@@ -86,7 +86,7 @@ Currently, Codie supports questions from the following platforms
 
 
 ## Live Demo 
-### [!video](https://youtu.be/ckWYEkFrZw4)
+### [**Codie Live Demo Video**](https://youtu.be/ckWYEkFrZw4)
  
   
 ## What We Learned:
