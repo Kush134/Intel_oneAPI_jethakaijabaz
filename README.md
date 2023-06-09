@@ -87,6 +87,9 @@ Currently, Codie supports questions from the following platforms
 
 ## Live Demo 
 ### [**Codie Live Demo Video**](https://youtu.be/ckWYEkFrZw4)
+
+## Medium Blog
+### [** Medium Blogs**](https://kushsah42.medium.com/codie-ai-powered-chatbot-revolutionising-software-interview-preparation-8284217565a7)
  
   
 ## What We Learned:
