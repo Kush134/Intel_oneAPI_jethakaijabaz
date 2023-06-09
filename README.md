@@ -1,11 +1,16 @@
 # intel-oneAPI
 
-#### Team Name - Jethakejabaz
-#### Problem Statement - Open Innovation in Education 
-#### Team Leader Email - sachinmishra4585@gmail.com
+#### **Team Name** - Jethakejabaz
+#### **Problem Statement** - Open Innovation in Education 
+#### **Team Leader Email** - sachinmishra4585@gmail.com 
 
 ## A Brief of the Prototype:
-  This section must include UML Daigrms and prototype description
+  *(This section must include UML Diagrams and prototype description)*
+
+  
+  `Codie`
+    
+An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
   
   
   `Architecture Diagram`
@@ -26,11 +31,11 @@
 
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
+   *(List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used** )*
    
-   **Intel Math Kernel Library (MKL) to optimize numerical computations.**
+   * **Intel Math Kernel Library (MKL) to optimize numerical computations.**
 
-**Intel Distribution for Python or the Intel Data Analytics Acceleration Library (DAAL)** to perform data analytics tasks on the output of the GPT-3 API. These libraries provide optimized functions for data manipulation, statistics, and machine learning that can speed up processing.
+* **Intel Distribution for Python or the Intel Data Analytics Acceleration Library (DAAL)** to perform data analytics tasks on the output of the GPT-3 API. These libraries provide optimized functions for data manipulation, statistics, and machine learning that can speed up processing.
 
 
    
@@ -38,13 +43,7 @@
 
    
 ## Step-by-Step Code Execution Instructions:
-  This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
-  
-  
-  
-  `Codie`
-    
-An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
+  *(This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed)*
    
    
 ### How to Install the extension
@@ -86,5 +85,14 @@ Currently, Codie supports questions from the following platforms
 **Additionally, Codie doesn't not work during live tests or contests, and we don't condone or encourage cheating.**
  
   
-## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+## What We Learned:
+   
+In our exhilarating hackathon experience, our team embarked on a mission to create Codie, an AI-powered chatbot for software interview preparation, using Intel OneAPI. Throughout this journey, we gained valuable insights and knowledge that expanded our understanding of AI development and its practical applications.
+
+First and foremost, we discovered the immense potential of Intel OneAPI. By harnessing its capabilities, we were able to optimize Codie's performance and tap into Intel's hardware prowess, unleashing its full power. OneAPI's unified programming model and extensive library support allowed us to maximize computational efficiency and deliver an exceptional user experience.
+
+We also learned the importance of seamless integration. By designing Codie as a Chrome extension, we eliminated the hassle of switching between tabs, providing users with convenient and uninterrupted access to Codie's wealth of knowledge. This integration not only enhanced user experience but also highlighted the value of creating solutions that seamlessly integrate with existing workflows.
+
+Lastly, we prioritized ethical considerations throughout the development process. We made sure that Codie did not operate during live tests or contests, discouraging any form of cheating and promoting integrity in the interview preparation process.
+
+Overall, our journey in creating Codie using Intel OneAPI was a tremendous learning experience. We gained valuable insights into the power of hardware acceleration, seamless integration, natural language processing, and ethical AI development. These lessons have not only enriched our understanding of AI technologies but also empowered us to create innovative solutions that make a positive impact in the field of software interview preparation.
